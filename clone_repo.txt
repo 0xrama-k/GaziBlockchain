@@ -1,0 +1,13 @@
+@echo off
+
+set REPO_URL=https://github.com/kullanici/obsidian-vault.git
+set TARGET_DIR=C:\Users\ramaz\Documents\ObsidianVault
+
+if not exist "%TARGET_DIR%" (
+    git clone "%REPO_URL%" "%TARGET_DIR%"
+) else (
+    cd /d "%TARGET_DIR%"
+    git pull
+)
+
+pause

@@ -1,0 +1,3 @@
+![[me.jpg]]
+
+[[Yetenekler]]
