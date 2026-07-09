@@ -1,0 +1,6 @@
+# Obsidian: kişisel/pencere-düzeni dosyaları — her makinede farklıdır, çakışma üretir
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# obsidian-git eklentisi: herkes kendi kopyasını kurar, repo'ya girmesin
+.obsidian/plugins/obsidian-git/
