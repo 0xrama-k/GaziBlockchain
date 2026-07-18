@@ -4,3 +4,5 @@
 [[X Makaleleri Analiz Agenti]]
 [[VC Raporları Analiz Agenti]]
 [[AI Toolkit]]
+[[Fatura agent]]
+[[Bütçe Bekçisi]]
